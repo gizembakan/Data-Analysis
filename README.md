@@ -7,3 +7,4 @@
 |---|
 | [Bike-Store-Data-Analysis](https://github.com/gizembakan/Data-Analysis/tree/main/Bike-Store-Data-Analysis) |
 | [Sakila-Database-Analysis](https://github.com/gizembakan/Data-Analysis/tree/main/Sakila-Database-Analysis) |
+| [Mobile-Shopping-Analysis-Case-Study](https://github.com/gizembakan/Data-Analysis/tree/main/Mobile-Shopping-Analysis-Case-Study)|
